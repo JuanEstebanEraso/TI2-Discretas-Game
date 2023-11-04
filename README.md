@@ -6,14 +6,6 @@ Integrantes:
 |----------|----------|
 | Juan Esteban Eraso Gutierrez  | A00399655  | 
 
-15=0.2
-
-Confiabilidad = 1 - 0.2=0.8
-
-Completitud = 15 / 23=0.652173913
-
-commit: d9f8262aab12c24543573ed7e019a94c197393a7
-
 
 
 [Link del enunciado](https://docs.google.com/document/d/10hhjAGeJ64UNWm14GvJy1Y3xHKX2kzeJjCLxbtblADg/edit?usp=sharing)
